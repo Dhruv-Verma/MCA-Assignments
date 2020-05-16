@@ -1,14 +1,12 @@
 # MCA_Assignments
 
 Assignment 1 :- 
-Python implementation of 
 1. LoG
 2. SIFT
 3. SURF
 4. Content-Based Image Retrieval System
 
 Assignment 2:-
-Python implementation of
 1. Spectrograms
 2. MFCCs
 3. Automatic Speech Recognition using Spectrogram and MFCCs
